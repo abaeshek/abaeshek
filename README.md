@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhishek
 - 👀 I’m interested in learning programs.
-- 🌱 I’m currently learning c++.
+- 🌱 I’m currently learning AI.
 - 💞️ I’m looking to collaborate on everything.
 - 📫 How to reach me email abaeshek@gmail.com
 
